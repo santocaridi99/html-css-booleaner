@@ -49,6 +49,7 @@ thead{
  th{
      color: white;
      width: 1000px;
+     text-align:left;
  }
 
  #tr-special{
