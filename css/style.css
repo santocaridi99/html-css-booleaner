@@ -1,0 +1,28 @@
+.contenitore-logo {
+    width: 100%;
+    height: 60px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(74, 74, 255);
+    background-size:contain;
+    
+
+}
+
+
+#logo{
+    width: 100px;
+    height: 60px;
+
+}
+h1{
+    margin-bottom:0;
+}
+
+#scritta-grigia{
+    color: rgb(70, 66, 66);
+    font-size: small;
+}
+
+#scritta-azzurra{
+    color: lightskyblue;
+}
