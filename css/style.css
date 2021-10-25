@@ -60,14 +60,22 @@ thead{
      width: 200px;
      height: 200px;
      background-image: url(../img/monitor.jpg);
-     color: white;
-     text-align: center;
+     
  }
 
  .img2{
      width:200px ;
      height: 200px;
      background-image: url(../img/graph.jpg);
-     color: white;
-     text-align: center;
+     
  }
+ h4{
+     color: white;
+     padding: 10px;
+ }
+
+ #numero-speciale{
+     color:grey;
+ }
+
+ 
