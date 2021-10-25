@@ -26,3 +26,8 @@ h1{
 #scritta-azzurra{
     color: lightskyblue;
 }
+
+#scritta-piccola{
+    color: rgb(70, 66, 66);
+    font-size:10px;
+}
