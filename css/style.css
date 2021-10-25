@@ -1,17 +1,14 @@
 .contenitore-logo {
     width: 100%;
-    height: 60px;
+    height: 170px;
     background-image: url(../img/pattern.png);
-    background-color: rgb(74, 74, 255);
-    background-size:contain;
-    
-
+    background-color: rgba(0, 169, 244,1);
 }
 
 
 #logo{
-    width: 100px;
-    height: 60px;
+    width: 300px;
+    height: 250px;
 
 }
 h1{
