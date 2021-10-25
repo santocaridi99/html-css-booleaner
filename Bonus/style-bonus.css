@@ -1,8 +1,10 @@
 
 body{
-    background-color:#ffe7e745;
+    background-color:#ffe7e700;
     background-image: url(../img/pattern.png);
+    background-size: contain;
     text-align: center;
+    padding: 100px;
 
 }
 .contenitore-logo {
@@ -23,7 +25,7 @@ body{
     text-align: left;
 }
 #scritta-azzurra{
-    color: rgb(1, 158, 255);
+    color: rgb(255, 1, 234);
     font-size: 25px;
     text-align: left;
 }
