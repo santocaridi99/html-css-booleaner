@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.contenitore-logo {
+    width: 100%;
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(2, 2, 2);
+    text-align: center;
+}
+#logo{
+    width: 300px;
+    height: 250px;
+
+}
+h1{
+    margin-bottom:0;
+    font-size: 60px;
+    color: white;
+}
+#scritta-grigia{
+    color: rgb(255, 255, 255);
+    font-size: small;
+   
+}
+
+#scritta-azzurra{
+    color: rgb(240, 135, 250);
+    font-size: 15px;
+}
+#scritta-piccola{
+    color: rgb(255, 255, 255);
+    font-size:10px;
+}
+#descrizione-foto{
+   font-size:10px;
+   color:white;
+}
+
+p{
+    color:white;
+}
+ul{
+    color: white;
+}
+#evidenziato{
+    background-color: #00ff84;
+}
+table{
+    background-color: violet;
+}
+thead{
+    background-color: rgb(201, 6, 250);
+}
+th{
+    color: white;
+    width: 1000px;
+    text-align:left;
+}
+#tr-special{
+    background-color: rgb(201, 6, 250);
+}
+#testo-footer{
+    color: rgb(121, 116, 116);
+    font-weight: bold;
+   
+}
+
+.img1{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    
+}
+
+.img2{
+    width:200px ;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    
+}
+h4{
+    color: white;
+    padding: 10px;
+}
+
+#numero-speciale{
+    color:grey;
+}
+

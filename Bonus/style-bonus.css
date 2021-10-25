@@ -19,6 +19,10 @@ body{
     height: 200px;
 
 }
+h1{
+    margin-bottom:0;
+    font-size: 60px;
+}
 #scritta-grigia{
     color: rgb(0, 0, 0);
     font-size: 20px;
@@ -34,6 +38,24 @@ body{
     font-size:20px;
     text-align: left;
 }
+#descrizione-foto{
+    font-size:10px;
+}
+#evidenziato{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+   
+}
+thead{
+    background-color: rgb(6, 156, 250);
+}
+th{
+    color: white;
+    width: 1000px;
+    text-align:left;
+}
 
 tr{
     background-color: rgb(255, 126, 6);
@@ -48,3 +70,27 @@ tr{
     text-align: left;
    
 }
+.img1{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    
+}
+
+.img2{
+    width:200px ;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    
+}
+h4{
+    color: white;
+    padding: 10px;
+}
+
+#numero-speciale{
+    color:grey;
+}
+
+
+
